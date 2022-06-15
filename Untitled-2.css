@@ -1,0 +1,12 @@
+* {
+  margin: 10px;
+  padding: 10px;
+}
+body {
+  top: 50px;
+  left: 250px;
+  display: flex;
+}
+.nav-links {
+  display: flex;
+}
